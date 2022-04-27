@@ -7,8 +7,7 @@ public class Demo
 	{
 		System.out.println("Method add");
 	}
-	
-=======
+
 	public void m1()
 	{
 		System.out.println("Method m1");
